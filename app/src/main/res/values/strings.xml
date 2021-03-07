@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="Num_7">7</string>
+    <string name="Num_8">8</string>
+    <string name="Num_9">9</string>
+    <string name="Divide">&#247;</string>
+    <string name="Num_4">4</string>
+    <string name="Num_5">5</string>
+    <string name="Num_6">6</string>
+    <string name="Multiply">&#215;</string>
+    <string name="Num_1">1</string>
+    <string name="Num_2">2</string>
+    <string name="Num_3">3</string>
+    <string name="Minus">-</string>
+    <string name="Num_0">0</string>
+    <string name="Dot">.</string>
+    <string name="Equal">=</string>
+    <string name="Plus">+</string>
+    <string name="Back">&#8678;</string>
+    <string name="AC">AC</string>
+</resources>
