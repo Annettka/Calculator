@@ -62,5 +62,6 @@ class MainActivity : AppCompatActivity() {
         }
         binding.operationField.append(str)
     }
+
 }
 
